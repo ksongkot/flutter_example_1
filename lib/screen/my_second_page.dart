@@ -17,7 +17,7 @@ class MySecondPage extends StatelessWidget {
         ),
       ),
       appBar: AppBar(
-        title: Text("My Home Page Ksongkot kabjunPage2"),
+        title: Text("My Home Page Ksongkot kabjun Page2"),
       ),
       body: Center(
           child: Column(
